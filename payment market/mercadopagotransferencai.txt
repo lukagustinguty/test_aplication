@@ -1,0 +1,6 @@
+#00A650 verde
+#019EE3 botones celeste
+#71C0E3 letra
+#E3F0F8 boton 1
+#8C8C8C letra gris
+
