@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:practice_navigator_basic/pages/Design_pages.dart';
 import 'package:practice_navigator_basic/pages/banco_nacion.dart';
 
 void main() => runApp(MyApp());
@@ -9,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Material App',
-      home: HomePage(),
+      home: RocioP(),
     );
   }
 }
